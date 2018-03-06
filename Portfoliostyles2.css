@@ -1,0 +1,56 @@
+.Header
+{
+  background-color: grey;
+  font-family:Harrington;
+  color: Orange;
+  font-size: 40px;
+  height:150px;
+  width:100%;
+  position: fixed;
+  top: 0;
+
+
+}
+
+.Biodata
+{
+  font-size: 40px;
+}
+
+.body
+{
+  background color:gold;
+}
+
+.Marquee
+{
+  background-color:black;
+  color:yellow;
+  font-size: 25px;
+  font-family:cursive;
+}
+
+.Form
+{
+  font-weight: bold;
+  color:grey;
+  font-family: Century Gothic;
+  font-size: 25px;
+  }
+
+.Footer
+{
+  font-size: 25px;
+  font-family: Batang;
+  color:orange;
+  background-color:black;
+  font-style: oblique;
+  height:90px;
+  width:100%;
+}
+
+.Portfoliotitle
+{
+  float:right;
+  position:absolute;
+}
