@@ -8,8 +8,12 @@
   width:100%;
   position: fixed;
   top: 0;
+}
 
-
+.Image
+{
+  float: left;
+  display: inline-block;
 }
 
 .Biodata
@@ -20,14 +24,20 @@
 .body
 {
   background color:gold;
+  padding-top: 80px;
+  padding-left: 24px;
+  width:1300px;
+  margin:auto;
 }
 
 .Marquee
 {
   background-color:black;
-  color:yellow;
+  color:orange;
   font-size: 25px;
-  font-family:cursive;
+  font-family:Harrington;
+  padding-left: 24px;
+  width:1300px;
 }
 
 .Form
@@ -38,6 +48,13 @@
   font-size: 25px;
   }
 
+.MyContacts
+{
+  padding-left: 24px;
+  width:1300px;
+  width: 100%;
+}
+
 .Footer
 {
   font-size: 25px;
@@ -47,6 +64,8 @@
   font-style: oblique;
   height:90px;
   width:100%;
+  padding-left: 24px;
+  width:1300px;
 }
 
 .Portfoliotitle
